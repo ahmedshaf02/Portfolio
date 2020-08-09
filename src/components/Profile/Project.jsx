@@ -37,7 +37,7 @@ function Profile(){
              />
              <ProjectCard 
              projectName="Project 3"
-             projectlink={"https://qbesq.csb.app/"}
+             projectlink={"https://reservation-booking.vercel.app/"}
              projectTitle = "Table Reservation System"
              projectImg = '/images/shwarma.PNG'
              projectStackImages = {obj}
