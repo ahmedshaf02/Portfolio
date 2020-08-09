@@ -25,7 +25,7 @@ export default function Stats(){
                    desc = "problems"
                    />
                    <StatsCard 
-                   value ={450}
+                   value ={600}
                    time = "GitHub"
                    desc = "Commits"
                    />
