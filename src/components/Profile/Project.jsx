@@ -43,6 +43,31 @@ function Profile(){
              projectStackImages = {obj}
              projectDesc ="Build a Shwarma Restaurant Table Reservation System to book a table for a day" 
              />
+             <ProjectCard 
+             projectName="Project 4"
+             projectlink={"https://react-food-recipe-git-master.ahmedshaf02.vercel.app/"}
+             projectTitle = "React Food Recipe App"
+             projectImg = '/images/food.PNG'
+             projectStackImages = {obj}
+             projectDesc ="An app to search live food recipe of your delicious food" 
+             />
+             <ProjectCard 
+             projectName="Project 5"
+             projectlink={"https://react-connect.ahmedshaf02.now.sh/"}
+             projectTitle = "React-Connect"
+             projectImg = '/images/react-connect.PNG'
+             projectStackImages = {obj}
+             projectDesc ="A shopping site primarily deals with household" 
+             />
+
+             <ProjectCard 
+             projectName="Project 6"
+             projectlink={"https://react-countdown.now.sh/"}
+             projectTitle = "React Countdown"
+             projectImg = '/images/count.PNG'
+             projectStackImages = {obj}
+             projectDesc ="Countdown app to set your counter for specific date" 
+             />
         </div>
     </div>
         </>
