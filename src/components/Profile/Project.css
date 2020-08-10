@@ -1,0 +1,71 @@
+.iconFooter{
+    width: 30px;
+    height: 30px;
+  }
+
+  .card{
+    background-color: white;
+    max-width: 360px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border-radius: 2rem;
+  }
+  a{
+    color: rgb(2, 1, 1);
+    text-decoration: none;
+  }
+  a:hover{
+    color: rgb(2, 1, 1);
+    text-decoration: none;
+  }
+
+  .card:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+
+  @keyframes shake {
+    10%, 90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+      transform: translate3d(2px, 0, 0);
+    }
+  
+    30%, 50%, 70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+  
+    40%, 60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }
+
+
+  .imgBack{
+      background-color: #dddddd;
+  }
+
+  .fa-plus{
+      background-color:  #AE8CD6;
+      color: white;
+        padding: 10px;
+      border-radius: 50%;
+  }
+  .card-img-top{
+      border-radius: 20px;
+  }
+
+.img-fluid{
+    
+    transition: all 2s linear ;
+}
+
+  .img-fluid:hover{
+    transform: scale(1.2, 1.2);
+  }
+ 

@@ -1,0 +1,15 @@
+.techCategory{
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+    background-color: #FFC831;
+    box-shadow: inset 0 0 0 5px white ;
+    padding: 5px;
+    border: 1px solid #A8A8A8;
+  }
+
+  hr{
+    
+    background-color: lightgray;
+    height:5px
+}
