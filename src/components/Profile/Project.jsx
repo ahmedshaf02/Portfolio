@@ -47,7 +47,7 @@ function Profile(){
              projectName="Project 4"
              projectlink={"https://react-food-recipe-git-master.ahmedshaf02.vercel.app/"}
              projectTitle = "React Food Recipe App"
-             projectImg = '/images/food.PNG'
+             projectImg = '/images/foodrecipe.gif'
              projectStackImages = {obj}
              projectDesc ="An app to search live food recipe of your delicious food" 
              />
