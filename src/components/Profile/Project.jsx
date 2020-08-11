@@ -30,14 +30,14 @@ function Profile(){
              <ProjectCard 
              projectName="Project 2"
              projectTitle = "Instacalm"
-             projectlink={"https://instacalm-app.vercel.app/"}
+             projectlink={"https://instacalm-app.herokuapp.com/"}
              projectImg = '/images/instacalm 1.PNG'
              projectStackImages = {obj}
              projectDesc ="Made a Social post sharing application to share your post with MERN stack" 
              />
              <ProjectCard 
              projectName="Project 3"
-             projectlink={"https://qbesq.csb.app/"}
+             projectlink={"https://reservation-booking.vercel.app/"}
              projectTitle = "Table Reservation System"
              projectImg = '/images/shwarma.PNG'
              projectStackImages = {obj}
