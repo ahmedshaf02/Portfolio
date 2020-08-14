@@ -89,7 +89,7 @@ function Profile(){
              />
              <ProjectCard 
              projectName="Project 8"
-             projectlink={"https://react-countdown.now.sh/"}
+             projectlink={"https://react-live-weather-app.ahmedshaf02.now.sh/"}
              projectTitle = "Live City Weather"
              projectImg = '/images/weather.PNG'
              projectStackImages = {obj}
