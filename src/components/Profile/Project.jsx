@@ -81,14 +81,14 @@ function Profile(){
              />
              <ProjectCard 
              projectName="Project 7"
-             projectlink={"https://react-countdown.now.sh/"}
+             projectlink={"book-application.herokuapp.com"}
              projectTitle = "Books Store App- CRUD"
              projectImg = '/images/node.PNG'
              projectStackImages = {obj}
              projectDesc ="A book store to register your book, an crud app with Node,MongoDB backend" 
              />
              <ProjectCard 
-             projectName="Project 6"
+             projectName="Project 8"
              projectlink={"https://react-countdown.now.sh/"}
              projectTitle = "Live City Weather"
              projectImg = '/images/weather.PNG'
