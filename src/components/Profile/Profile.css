@@ -61,6 +61,7 @@ hr{
     border: 10px solid #AE8CD6;
     position: relative;
     left: -8%;
+    transform: rotate(-4deg);
 }
 
 .html{
