@@ -81,7 +81,7 @@ function Profile(){
              />
              <ProjectCard 
              projectName="Project 7"
-             projectlink={"book-application.herokuapp.com"}
+             projectlink={"https://mybook-application.herokuapp.com/"}
              projectTitle = "Books Store App- CRUD"
              projectImg = '/images/node.PNG'
              projectStackImages = {obj}
