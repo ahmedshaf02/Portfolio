@@ -32,7 +32,7 @@ function Profile(){
             <ProjectCard 
              projectName="Project 2"
              projectlink={"https://react-connect.ahmedshaf02.now.sh/"}
-             projectTitle = "React-Connect"
+             projectTitle = "Shopihy-Connect"
              projectImg = '/images/react-connect.PNG'
              projectStackImages = {obj}
              projectDesc ="A shopping site primarily deals with household" 
@@ -41,7 +41,7 @@ function Profile(){
             <ProjectCard 
              projectName="Project 3"
              projectlink={"https://react-food-recipe-git-master.ahmedshaf02.vercel.app/"}
-             projectTitle = "React Food Recipe App"
+             projectTitle = "Live Food Recipe App"
              projectImg = '/images/foodrecipe.gif'
              projectStackImages = {obj}
              projectDesc ="An app to search live food recipe of your delicious food" 
@@ -74,10 +74,26 @@ function Profile(){
              <ProjectCard 
              projectName="Project 6"
              projectlink={"https://react-countdown.now.sh/"}
-             projectTitle = "React Countdown"
+             projectTitle = "Live Countdown Timer"
              projectImg = '/images/count2.PNG'
              projectStackImages = {obj}
              projectDesc ="Countdown app to set your counter for specific date" 
+             />
+             <ProjectCard 
+             projectName="Project 7"
+             projectlink={"https://react-countdown.now.sh/"}
+             projectTitle = "Books Store App- CRUD"
+             projectImg = '/images/node.PNG'
+             projectStackImages = {obj}
+             projectDesc ="A book store to register your book, an crud app with Node,MongoDB backend" 
+             />
+             <ProjectCard 
+             projectName="Project 6"
+             projectlink={"https://react-countdown.now.sh/"}
+             projectTitle = "Live City Weather"
+             projectImg = '/images/weather.PNG'
+             projectStackImages = {obj}
+             projectDesc ="Live Weather of your city along with other details." 
              />
         </div>
     </div>
